@@ -475,7 +475,6 @@ Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization | Business 
 
 Open to opportunities in:
 
-![screenshot](./images/LaunchSites.png)
 
 * Data Analytics
 * Business Intelligence
@@ -486,3 +485,6 @@ Open to opportunities in:
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
+
+
+![screenshot](./images/Launch%20Sites.png)
