@@ -1,5 +1,7 @@
 # 🚀 Space Launch Analytics
 
+![screenshot](./images/Overview.png)
+
 ## 📌 Project Overview
 
 This project is an end-to-end Data Analytics solution built to analyze global space launch operations, rocket performance, mission success rates, launch costs, payload efficiency, and orbital deployment trends.
