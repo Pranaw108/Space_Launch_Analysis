@@ -467,7 +467,7 @@ python eda_analyzer.py
 
 ---
 
-![screenshot](./images/LaunchSites.png)
+![screenshot](./images/Launch%20Sites.png)
 
 
 # 👨‍💻 Author
