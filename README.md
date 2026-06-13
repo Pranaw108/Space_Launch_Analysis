@@ -467,6 +467,9 @@ python eda_analyzer.py
 
 ---
 
+![screenshot](./images/LaunchSites.png)
+
+
 # 👨‍💻 Author
 
 Pranaw Gautam
@@ -474,7 +477,6 @@ Pranaw Gautam
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization | Business Intelligence
 
 Open to opportunities in:
-
 
 * Data Analytics
 * Business Intelligence
@@ -485,6 +487,3 @@ Open to opportunities in:
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
-
-
-![screenshot](./images/Launch%20Sites.png)
