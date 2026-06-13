@@ -1,0 +1,93 @@
+rocket,country,operator,first_flight,payload_to_leo_kg,payload_to_gto_kg,historical_success_rate,era,rocket_type,launch_cost_m_usd_2024,cost_per_kg_usd,reusable,first_stage_engines,propellant,height_m,mass_tonnes,launches_total,status_2024
+Sputnik (R-7),USSR,OKB-1,1957,226,108,0.65,Cold War,orbital,,,0,2,LOX/LH2,27.8,211.0,56,In Development
+Vostok-K,USSR,OKB-1,1960,2145,1029,0.82,Cold War,orbital,,,0,8,N2O4/UDMH,47.3,136.0,42,Retired
+Voskhod,USSR,OKB-1,1963,2494,1197,0.88,Cold War,orbital,,,0,4,LOX/RP-1,41.5,227.0,6,Retired
+Soyuz 11A511,USSR,OKB-1,1966,3129,1501,0.93,Cold War,orbital,,,0,3,Hybrid,24.4,440.0,2,Retired
+Soyuz-U,USSR,TsSKB,1973,3107,1491,0.97,Cold War,orbital,35.0,11265.0,0,8,LOX/RP-1,54.1,49.0,18,Active
+Soyuz-FG,Russia,TsSKB,2001,3265,1567,0.99,Modern,orbital,80.0,24502.0,0,2,Solid,51.7,187.0,33,Retired
+Soyuz-2.1a,Russia,TsSKB,2004,3356,1610,0.98,Modern,orbital,50.0,14899.0,0,4,LOX/LH2,39.5,393.0,5,Retired
+Soyuz-2.1b,Russia,TsSKB,2006,3719,1785,0.99,Modern,orbital,55.0,14789.0,0,4,LOX/RP-1,54.6,184.0,14,Retired
+Proton-K,USSR,Khrunichev,1965,9525,4572,0.91,Cold War,orbital,,,0,3,N2O4/UDMH,47.3,86.0,20,Retired
+Proton-M,Russia,Khrunichev,2001,10432,5007,0.94,Modern,orbital,100.0,9586.0,0,7,Hybrid,18.6,95.0,54,Suspended
+Zenit-2,USSR,Yuzhnoye,1985,6232,2991,0.85,Cold War,orbital,,,0,1,LOX/RP-1,46.4,270.0,48,Active
+Rokot,Russia,Khrunichev,1994,884,424,0.95,Post-Soviet,orbital,40.0,45249.0,0,3,LOX/LH2,24.9,135.0,129,Retired
+Dnepr,Russia/Ukraine,ISC,1999,2041,979,0.97,Post-Soviet,orbital,25.0,12249.0,0,7,N2O4/UDMH,29.4,89.0,32,Active
+Cosmos-3M,USSR,PO Polyot,1967,680,326,0.97,Cold War,orbital,,,0,2,LOX/RP-1,38.7,276.0,21,Active
+Cyclone-2,USSR,Yuzhnoye,1969,1360,652,0.97,Cold War,orbital,,,0,4,N2O4/UDMH,38.6,141.0,96,Active
+Angara-A5,Russia,Khrunichev,2014,11113,5334,0.88,Modern,orbital,100.0,8998.0,0,1,N2O4/UDMH,34.2,90.0,66,Active
+Soyuz-ST,Russia,TsSKB,2011,4082,1959,0.98,Modern,orbital,60.0,14699.0,0,1,LOX/RP-1,54.5,140.0,4,Retired
+Jupiter-C,USA,Army,1958,4,1,0.6,Cold War,suborbital,,,0,6,LOX/Methane,36.1,683.0,87,Active
+Juno I,USA,Army,1958,6,2,0.5,Cold War,orbital,,,0,7,LOX/RP-1,36.3,111.0,350,Retired
+Vanguard,USA,NRL,1957,4,1,0.4,Cold War,orbital,,,0,5,LOX/RP-1,33.3,49.0,350,In Development
+Thor-Delta,USA,NASA,1960,102,48,0.75,Cold War,orbital,,,0,6,LOX/Methane,35.9,78.0,1,Retired
+Delta II,USA,Boeing,1989,2308,1107,0.99,Modern,orbital,55.0,23830.0,0,2,LOX/LH2,48.7,96.0,72,Retired
+Delta IV Medium,USA,Boeing,2002,3900,1872,0.98,Modern,orbital,164.0,42051.0,0,1,Hybrid,57.3,156.0,12,Suspended
+Delta IV Heavy,USA,ULA,2004,13058,6267,0.94,Modern,orbital,350.0,26803.0,0,4,Hybrid,56.4,46.0,28,In Development
+Atlas V,USA,ULA,2002,8533,4095,0.99,Modern,orbital,190.0,22266.0,0,3,LOX/RP-1,49.8,123.0,57,Retired
+Atlas-Centaur,USA,GD,1962,2041,979,0.82,Cold War,orbital,,,0,7,LOX/RP-1,31.7,135.0,33,Active
+Titan II GLV,USA,USAF,1964,1632,783,0.96,Cold War,orbital,,,0,3,LOX/RP-1,61.2,55.0,115,Active
+Titan III,USA,USAF,1964,5896,2830,0.91,Cold War,orbital,,,0,4,LOX/LH2,28.1,129.0,47,Retired
+Titan IV,USA,Lockheed,1989,9833,4719,0.94,Post-Cold War,orbital,432.0,43934.0,0,1,LOX/RP-1,52.1,209.0,75,Active
+Saturn IB,USA,NASA,1966,9525,4572,0.92,Cold War,orbital,,,0,4,LOX/RP-1,43.8,45.0,147,Retired
+Saturn V,USA,NASA,1967,58966,28303,0.92,Cold War,orbital,,,0,3,Solid,67.6,159.0,204,Retired
+Space Shuttle,USA,NASA,1981,11067,5312,0.985,Cold War,orbital,1600.0,144574.0,1,9,LOX/LH2,25.4,158.0,160,Active
+Scout,USA,LTV,1960,90,43,0.9,Cold War,orbital,,,0,9,Solid,18.4,196.0,64,Retired
+Minotaur I,USA,Orbital ATK,2000,263,126,0.97,Modern,orbital,35.0,133080.0,0,4,Solid,33.6,34.0,6,Retired
+Minotaur IV,USA,Orbital ATK,2010,786,377,0.97,Modern,orbital,50.0,63613.0,0,4,LOX/RP-1,56.5,68.0,40,Retired
+Antares,USA,Northrop,2013,3628,1741,0.92,Modern,orbital,80.0,22051.0,0,8,LOX/RP-1,51.4,127.0,4,Retired
+Vulcan Centaur,USA,ULA,2024,12337,5921,0.9,New Space,orbital,110.0,8916.0,0,4,LOX/Methane,40.8,291.0,193,Active
+Falcon 1,USA,SpaceX,2006,303,145,0.6,New Space,orbital,7.0,23102.0,0,7,LOX/LH2,40.0,259.0,24,Retired
+Falcon 9 v1.0,USA,SpaceX,2010,4741,2275,0.86,New Space,orbital,54.0,11390.0,0,7,LOX/RP-1,56.9,307.0,6,Retired
+Falcon 9 FT,USA,SpaceX,2015,10341,4963,0.99,New Space,orbital,67.0,6479.0,1,6,LOX/Methane,32.9,101.0,140,Retired
+Falcon Heavy,USA,SpaceX,2018,28939,13890,0.95,New Space,orbital,90.0,3110.0,1,1,LOX/RP-1,15.0,142.0,6,In Development
+Starship (IFT),USA,SpaceX,2023,68038,32658,0.5,New Space,super-heavy,,,1,3,LOX/RP-1,53.0,404.0,6,Retired
+Pegasus XL,USA,Orbital Sciences,1994,200,96,0.92,Post-Cold War,air-launch,40.0,200000.0,0,7,LOX/LH2,70.5,268.0,4,Retired
+Taurus,USA,Orbital Sciences,1994,612,293,0.78,Post-Cold War,orbital,40.0,65359.0,0,1,LOX/Methane,38.5,135.0,57,Active
+Electron,USA/NZ,Rocket Lab,2017,136,65,0.91,New Space,small-sat,8.0,58824.0,1,1,N2O4/UDMH,50.8,143.0,102,Retired
+Terran 1,USA,Relativity Space,2023,408,195,0.0,New Space,small-sat,12.0,29412.0,0,4,LOX/RP-1,48.5,66.0,21,Retired
+Firefly Alpha,USA,Firefly,2021,467,224,0.5,New Space,small-sat,15.0,32120.0,0,6,N2O4/UDMH,56.4,269.0,30,Active
+LauncherOne,USA,Virgin Orbit,2020,226,108,0.6,New Space,air-launch,12.0,53097.0,0,2,LOX/RP-1,39.2,26.0,87,Suspended
+New Shepard,USA,Blue Origin,2015,0,0,0.93,New Space,suborbital,0.5,,1,9,LOX/RP-1,51.3,67.0,28,Active
+New Glenn,USA,Blue Origin,2024,20411,9797,0.5,New Space,orbital,,,1,8,N2O4/UDMH,45.9,121.0,12,Active
+Ariane 1,France,CNES,1979,839,402,0.92,Cold War,orbital,,,0,4,LOX/RP-1,15.0,63.0,19,Retired
+Ariane 4,France,Arianespace,1988,2222,1066,0.97,Post-Cold War,orbital,,,0,9,LOX/LH2,46.1,135.0,152,Active
+Ariane 5 ECA,ESA,Arianespace,1996,9525,4572,0.97,Modern,orbital,180.0,18898.0,0,8,Solid,22.9,38.0,41,Retired
+Ariane 6,ESA,Arianespace,2024,9820,4713,0.75,New Space,orbital,115.0,11711.0,0,2,LOX/RP-1,15.0,46.0,17,In Development
+Vega,ESA,Arianespace,2012,680,326,0.88,Modern,small-sat,37.0,54412.0,0,4,LOX/RP-1,47.8,285.0,8,Retired
+Vega-C,ESA,Arianespace,2022,997,478,0.5,New Space,small-sat,40.0,40120.0,0,1,Hybrid,33.1,96.0,36,Active
+Diamant,France,CNES,1965,36,17,0.79,Cold War,orbital,,,0,4,LOX/RP-1,41.3,251.0,11,Retired
+Long March 1,China,CASC,1970,136,65,0.75,Cold War,orbital,,,0,1,Solid,62.6,137.0,41,Retired
+Long March 2C,China,CASC,1975,1746,838,0.97,Modern,orbital,20.0,11455.0,0,2,LOX/RP-1,64.5,146.0,50,Active
+Long March 2D,China,CASC,1992,1587,761,0.98,Modern,orbital,20.0,12602.0,0,9,LOX/LH2,39.5,179.0,78,Retired
+Long March 2F,China,CASC,1999,3810,1828,0.98,Modern,crewed,,,0,7,LOX/RP-1,47.6,96.0,7,In Development
+Long March 3B,China,CASC,1994,5216,2503,0.95,Modern,orbital,70.0,13420.0,0,8,LOX/RP-1,44.8,275.0,20,Retired
+Long March 4B,China,CASC,1999,1905,914,0.97,Modern,orbital,25.0,13123.0,0,5,LOX/LH2,56.3,145.0,172,Active
+Long March 5,China,CASC,2016,11339,5442,0.82,Modern,heavy,150.0,13229.0,0,2,LOX/RP-1,41.3,137.0,4,In Development
+Long March 7,China,CASC,2016,6123,2939,0.92,Modern,orbital,60.0,9799.0,0,1,N2O4/UDMH,61.5,160.0,54,Retired
+Long March 11,China,CASC,2015,317,152,0.97,Modern,small-sat,10.0,31546.0,0,5,LOX/RP-1,15.0,259.0,85,Retired
+Kuaizhou-1A,China,CASIC,2017,136,65,0.95,New Space,small-sat,5.0,36765.0,0,4,LOX/RP-1,15.9,269.0,82,Retired
+Zhuque-2,China,LandSpace,2022,2721,1306,0.5,New Space,commercial,,,0,6,Hybrid,60.4,42.0,44,Retired
+Lambda 4S,Japan,ISAS,1966,11,5,0.4,Cold War,orbital,,,0,8,N2O4/UDMH,56.5,49.0,160,Retired
+Mu-4S,Japan,ISAS,1970,81,38,0.8,Cold War,orbital,,,0,7,N2O4/UDMH,18.6,138.0,32,Active
+H-I,Japan,NASDA,1986,1451,696,0.94,Cold War,orbital,,,0,7,N2O4/UDMH,54.6,44.0,86,Active
+H-II,Japan,NASDA,1994,2721,1306,0.78,Post-Cold War,orbital,,,0,3,N2O4/UDMH,28.7,224.0,16,Retired
+H-IIA,Japan,JAXA,2001,4535,2176,0.98,Modern,orbital,90.0,19846.0,0,7,N2O4/UDMH,31.3,115.0,14,Retired
+H-IIB,Japan,JAXA,2009,8618,4136,0.95,Modern,orbital,130.0,15085.0,0,4,LOX/RP-1,45.4,101.0,15,Retired
+H3,Japan,JAXA,2023,2948,1415,0.5,New Space,orbital,50.0,16961.0,0,5,LOX/RP-1,44.2,81.0,350,Active
+Epsilon,Japan,JAXA,2013,317,152,0.86,Modern,small-sat,38.0,119874.0,0,7,LOX/RP-1,51.7,93.0,11,Retired
+SLV,India,ISRO,1979,18,8,0.5,Cold War,orbital,,,0,4,N2O4/UDMH,32.3,164.0,2,Retired
+ASLV,India,ISRO,1987,68,32,0.5,Cold War,orbital,,,0,6,LOX/RP-1,60.0,41.0,111,Retired
+PSLV,India,ISRO,1993,1723,827,0.96,Modern,orbital,25.0,14510.0,0,8,LOX/RP-1,31.0,221.0,70,Retired
+GSLV Mk II,India,ISRO,2001,2267,1088,0.78,Modern,orbital,50.0,22056.0,0,6,N2O4/UDMH,55.2,436.0,23,Retired
+GSLV Mk III (LVM3),India,ISRO,2017,4535,2176,0.88,Modern,orbital,62.0,13671.0,0,9,Solid,30.3,300.0,39,Retired
+Shavit,Israel,IAI,1988,72,34,0.73,Modern,orbital,,,0,5,N2O4/UDMH,45.4,102.0,4,Active
+Unha-3,DPRK,KCST,2012,45,21,0.5,Modern,orbital,,,0,9,LOX/RP-1,18.3,102.0,110,Retired
+NARO-1,South Korea,KARI,2009,45,21,0.33,Modern,orbital,,,0,8,LOX/LH2,35.6,151.0,60,Active
+KSLV-2 (Nuri),South Korea,KARI,2021,680,326,0.75,New Space,orbital,,,0,3,N2O4/UDMH,44.1,146.0,13,Retired
+VLS-1,Brazil,AEB,1997,45,21,0.0,Modern,orbital,,,0,6,LOX/LH2,66.1,99.0,21,Active
+Safir,Iran,ISA,2008,22,10,0.75,Modern,orbital,,,0,8,N2O4/UDMH,17.9,282.0,23,In Development
+Simorgh,Iran,ISA,2017,27,12,0.5,Modern,orbital,,,0,7,N2O4/UDMH,69.7,75.0,344,Retired
+Rokh,Iran,ISA,2023,45,21,0.5,Modern,orbital,,,0,2,LOX/LH2,37.2,129.0,38,Retired
+PS4 / Vikram-S,India,Skyroot,2022,45,21,0.9,New Space,small-sat,,,0,8,Solid,53.1,340.0,117,Retired
+Hyperbola-1,China,iSpace,2019,117,56,0.75,New Space,small-sat,,,0,3,LOX/LH2,48.1,69.0,112,Active
+Ceres-1,China,Galactic Energy,2020,181,86,0.88,New Space,small-sat,,,0,4,LOX/RP-1,49.3,327.0,135,Active
