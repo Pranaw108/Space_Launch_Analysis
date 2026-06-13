@@ -475,6 +475,8 @@ Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization | Business 
 
 Open to opportunities in:
 
+![screenshot](./images/LaunchSites.png)
+
 * Data Analytics
 * Business Intelligence
 * Reporting & Insights
