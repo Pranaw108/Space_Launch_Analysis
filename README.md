@@ -391,7 +391,7 @@ The project enables stakeholders to:
 ## Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Pranaw108/Space_Launch_Analysis.git
 cd Space-Launch-Analytics
 ```
 
